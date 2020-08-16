@@ -1,4 +1,4 @@
-# Java-Project
+# Student Achievement Management System
 
 ABSTRACT
 
